@@ -1,0 +1,31 @@
+.name {
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: bold;
+    color: #ad29ff;
+    text-align: center;
+}
+
+.activity {
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: bolder;
+    color: #ad29ff;
+    text-align: center;
+}
+
+.education, .work, .about-me {
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: bolder;
+    color: #ad29ff;
+    text-align:left;
+}
+
+.education-direction, .work-post, .about-me-description {
+    font-size: 1vw;
+    font-style: normal;
+    font-weight: bolder;
+    color: #da9eff;
+    text-align:left;
+}
